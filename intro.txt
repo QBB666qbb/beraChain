@@ -1,0 +1,20 @@
+BeraChain 领水
+支持创建地址领水或指定地址领水
+
+bex 交互
+支持代币交换和增加流动性
+
+honey 交互
+支持mint和redeem
+
+bend 交互
+用于与 BeraChain 的 bend 服务交互。
+
+berps 交互
+用于与 BeraChain 的 berps 服务交互。
+
+station 交互
+用于与 BeraChain 的 station 服务交互。
+
+beranames 交互
+用于与 BeraChain 的 beranames 服务交互。
